@@ -306,8 +306,4 @@ This project demonstrates the ability to deploy, configure, monitor, and trouble
 
 ---
 
-## Author
 
-**Maisarah**
-
-Environmental Engineer transitioning into IT Infrastructure, System Administration, Monitoring, and Data Analytics.
